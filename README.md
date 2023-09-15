@@ -2,8 +2,6 @@
 
 □ GitHub blog :  https://heeyapro.github.io/ <br>
 □ Email : kangdohee1211@naver.com & 20207138@hallym.ac.kr <br>
-□ 소프트웨어 개발보안 가이드 (2021.12.29) <br>
-□ Python 시큐어코딩 가이드 (2022년 개정본) <br>
 
 ■ Conferences <br>
 > HS Kim, DH Kang, BI Kwak, "Sequence and Time Interval-based intrusion detection and attack classification for CAN Bus security", 한국정보보호학회 충청지부학술대회, Cheonan, Korea (Sep. 2023) - Poster<br>
