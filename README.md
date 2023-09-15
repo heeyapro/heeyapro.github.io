@@ -22,6 +22,7 @@
 - Excellence Prize, 2020 Reading Debate Club, Hallym Polytechnic University (Dec. 2020) <br>
 
 ■ Skills and Techniques  <br>
-Certifications<br>
+
+□ Certifications<br>
 - Industrial Engineer Information Processing<br>
 - Industrial Engineer Office Automation<br>
