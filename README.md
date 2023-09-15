@@ -1,9 +1,11 @@
-# heeyapro.github.io
+GitHub blog :  https://heeyapro.github.io/
 
-안녕하세요. 저는 한림대학교 정보과학대학 소프트웨어학부 스마트 IOT 전공 강도희라고 합니다.
+Hallym University \n
+kangdohee1211@naver.com & 20207138@hallym.ac.kr \n
 
-저에 대해서 자세히 알고 싶다면 https://heeyapro.github.io/ 에 방문해주세요 !
-
-간단한 자기소개부터 현재 제가 가고자 하는 진로 방향은 무엇인지, 무슨 공부와 프로젝트를 진행했는지 확인하실 수 있습니다.
-
-감사합니다 !
+Conferences \n
+1. HS Kim, DH Kang, BI Kwak, "Sequence and Time Interval-based intrusion detection and attack
+classification for CAN Bus security", 한국정보보호학회 충청지부학술대회, Cheonan, Korea (Sep.
+2023) - Poster \n
+2. DH Kang, HS Kim, WK Jung, BI Kwak, "Anomaly detection method of IVN using lightweight
+features based on Autoencoder", JCCI, Yeosu, Korea (Apr. 2023) - Oral \n
